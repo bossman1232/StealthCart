@@ -9,5 +9,18 @@
             "Photo-3": "Testing/Slideshow3.png"
         },
         "Buy-Button-URL": "https://example.com/"
+    },
+
+    {
+        "Name": "Product 1",
+        "Main-Photo": "Testing/Main.png",
+        "Description": "Description of the product",
+        "Slideshow": {
+            "Photo-1": "Testing/Slideshow1.png",
+            "Photo-2": "Testing/Slideshow2.png",
+            "Photo-3": "Testing/Slideshow3.png"
+        },
+        "Buy-Button-URL": "https://example.com/"
     }
+
 ]
