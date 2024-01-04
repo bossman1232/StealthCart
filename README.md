@@ -58,6 +58,7 @@ Effortlessly integrate new products into StealthCart with the following steps:
 1. Open the **products.txt** file and replace its content with this template:
 
 ```json
+
 [
     {
         "Name": "Product 1",
@@ -71,6 +72,7 @@ Effortlessly integrate new products into StealthCart with the following steps:
         "Buy-Button-URL": "https://example.com/"
     }
 ]
+
 ```
 
 Note: The **Photo-3** and **Photo-2** links are currently broken.
