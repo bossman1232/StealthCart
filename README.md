@@ -4,13 +4,14 @@ Discover unparalleled convenience in online shopping with StealthCart, your prem
 
 ## Other
 If you see this then remove ,
-    ```
+```
     [
         {
         Product info
         },
     ]
-    ```
+```
+
 if you see this keep comma
     ```
     [
