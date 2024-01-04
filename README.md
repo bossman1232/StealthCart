@@ -2,6 +2,27 @@
 
 Discover unparalleled convenience in online shopping with StealthCart, your premier destination for dropshipping.
 
+## Other
+If you see this then remove ,
+    ```
+    [
+        ..........
+        },
+    ]
+    ```
+if you see this keep comma
+    ```
+    [
+        {
+            Product info
+        },
+
+        {
+            Product info
+        }
+    ]
+    ```
+
 ## Installation Guide
 
 Set up StealthCart effortlessly with these simple steps:

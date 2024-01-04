@@ -1,0 +1,11 @@
+    {
+        "Name": "Name",
+        "Main-Photo": "MainPhotoLogo",
+        "Description": "Placeholder",
+        "Slideshow": {
+            "Photo-1": "SlideshowPhoto",
+            "Photo-2": "Testing/Slideshow2.png",
+            "Photo-3": "Testing/Slideshow3.png"
+        },
+        "Buy-Button-URL": "https://example.com/"
+    },
