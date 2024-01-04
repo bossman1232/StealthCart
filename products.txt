@@ -1,10 +1,10 @@
 [
     {
         "Name": "fusion 3 pro xbox controller",
-        "Main-Photo": "Testing/Main.png",
-        "Description": "Description of the product",
+        "Main-Photo": "1/1.jpg",
+        "Description": "Xbox controller place holder",
         "Slideshow": {
-            "Photo-1": "Testing/Slideshow1.png",
+            "Photo-1": "1/1.jpg",
             "Photo-2": "Testing/Slideshow2.png",
             "Photo-3": "Testing/Slideshow3.png"
         },
