@@ -7,7 +7,7 @@ If you see this then remove ,
     ```
     [
         {
-        ..........
+        Product info
         },
     ]
     ```
